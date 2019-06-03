@@ -1,0 +1,29 @@
+Errors
+
+Human are prone to errors and we broadly classify error into 3 categories :
+1) Compile-time Errors :   #) These error include syntax related issues, missing semi-colons etc.
+                           #) These are thrown at compile time when we try to compile the java file.
+                           #) These are considered as Error which cannot be handled by code.
+                           #) These can be easily solved as the compiler tells the programmer, respective line number and information about the error.
+
+2) Run-time Errors :   #) These error occour because of the inability of the system to handling or take care of certain situations.
+                       #) These are thrown at runtime by JVM.
+                       #) These are also called Exceptions.
+                       #) There are two types of Exceptions :
+                           #) Checked Exceptions : Some of the runtime errors are checked by the compiler at compile time for having Exception handling code
+                                                   as it knows about there is a chance a particular Class or Method will throw some exception.
+
+                           #) Unchecked Exceptions : Some of the runtime errors are not even checked by the compiler for having /containing exception handling code
+                                                     and still gets compiled successfully ,these are unchecked exceptions.
+
+                       #) All compile time error and run-time exceptions which are Un-checked are considered as Error and for these we cant write or handle
+                          by using codes.
+                       #) These can be solved by using below mentioned ways:
+                            #) Using try(),catch() and finally()
+                            #) Using throw and throws keyword.
+
+3) Logical Errors : #) These are errors done by the programmer.
+                    #) These are neither checked by compiler at compile-time nor by JVM at runtime.
+                    #) Programmer has to look into it and test for logic change or mistake to rectify such error.
+
+
