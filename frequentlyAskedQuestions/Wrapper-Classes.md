@@ -1,5 +1,6 @@
 # Wrapper Classes
-## 7 . What are Wrapper classes?
+
+### 7 . What are Wrapper classes?
 ## 8 . Why do we need Wrapper classes in Java?
 ## 9 . What are the different ways of creating Wrapper class instances?
 ## 10 . What are differences in the two ways of creating Wrapper classes?
