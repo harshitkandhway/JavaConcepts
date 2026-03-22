@@ -9,4 +9,6 @@
    Application Context is the latest Interface which provides all the features of Bean Factory but also provides support of Spring AOP,
    Internationalization etc.
 5. Can you compare bean factory with Application Context?
+   Application context provides support to SpringAOP
+
 6. How do you create application context with Spring? 
