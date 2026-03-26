@@ -10,5 +10,6 @@
    Internationalization etc.
 5. Can you compare bean factory with Application Context?
    Application context provides support to SpringAOP
+   Bean Factory provides basic dependency injection whereas application context Includes all BeanFactory features plus advanced functions like AOP , Internationalization, etc.
 
-6. How do you create application context with Spring? 
+7. How do you create application context with Spring? 
