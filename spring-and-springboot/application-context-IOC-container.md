@@ -13,3 +13,4 @@
    Bean Factory provides basic dependency injection whereas application context Includes all BeanFactory features plus advanced functions like AOP , Internationalization, etc.
 
 7. How do you create application context with Spring? 
+   In standalone Spring applications, you create the application context programmatically using specific implementation classes. The choice depends on whether you are using XML or Java-based configuration. In Spring Boot applications, the application context is typically created and managed automatically by the framework.
